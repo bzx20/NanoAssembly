@@ -1,0 +1,22 @@
+"filename", "language", "JSON", "Markdown", "JavaScript", "HTML", "JSON with Comments", "XML", "Vue", "comment", "blank", "total"
+"c:\Users\bzx2021\webcfjd\README.md", "Markdown", 0, 19, 0, 0, 0, 0, 0, 0, 6, 25
+"c:\Users\bzx2021\webcfjd\babel.config.js", "JavaScript", 0, 0, 5, 0, 0, 0, 0, 0, 1, 6
+"c:\Users\bzx2021\webcfjd\jsconfig.json", "JSON with Comments", 0, 0, 0, 0, 8, 0, 0, 12, 0, 20
+"c:\Users\bzx2021\webcfjd\package-lock.json", "JSON", 11493, 0, 0, 0, 0, 0, 0, 0, 1, 11494
+"c:\Users\bzx2021\webcfjd\package.json", "JSON", 53, 0, 0, 0, 0, 0, 0, 0, 1, 54
+"c:\Users\bzx2021\webcfjd\public\index.html", "HTML", 0, 0, 0, 18, 0, 0, 0, 1, 1, 20
+"c:\Users\bzx2021\webcfjd\src\App.vue", "Vue", 0, 0, 0, 0, 0, 0, 88, 2, 10, 100
+"c:\Users\bzx2021\webcfjd\src\assets\logo.svg", "XML", 0, 0, 0, 0, 0, 1, 0, 0, 1, 2
+"c:\Users\bzx2021\webcfjd\src\components\HelloWorld.vue", "Vue", 0, 0, 0, 0, 0, 0, 141, 0, 11, 152
+"c:\Users\bzx2021\webcfjd\src\components\ToolBar.vue", "Vue", 0, 0, 0, 0, 0, 0, 45, 0, 4, 49
+"c:\Users\bzx2021\webcfjd\src\main.js", "JavaScript", 0, 0, 13, 0, 0, 0, 0, 0, 2, 15
+"c:\Users\bzx2021\webcfjd\src\plugins\vuetify.js", "JavaScript", 0, 0, 5, 0, 0, 0, 0, 0, 3, 8
+"c:\Users\bzx2021\webcfjd\src\router\index.js", "JavaScript", 0, 0, 44, 0, 0, 0, 0, 3, 4, 51
+"c:\Users\bzx2021\webcfjd\src\views\AboutView.vue", "Vue", 0, 0, 0, 0, 0, 0, 5, 0, 1, 6
+"c:\Users\bzx2021\webcfjd\src\views\Contact\ContactHomeView.vue", "Vue", 0, 0, 0, 0, 0, 0, 89, 0, 3, 92
+"c:\Users\bzx2021\webcfjd\src\views\HomeView.vue", "Vue", 0, 0, 0, 0, 0, 0, 239, 0, 9, 248
+"c:\Users\bzx2021\webcfjd\src\views\Info\InfoHomeView.vue", "Vue", 0, 0, 0, 0, 0, 0, 71, 0, 5, 76
+"c:\Users\bzx2021\webcfjd\src\views\Product\ProductHomeView.vue", "Vue", 0, 0, 0, 0, 0, 0, 119, 0, 5, 124
+"c:\Users\bzx2021\webcfjd\src\views\Solution\SolutionHomeView.vue", "Vue", 0, 0, 0, 0, 0, 0, 34, 0, 2, 36
+"c:\Users\bzx2021\webcfjd\vue.config.js", "JavaScript", 0, 0, 6, 0, 0, 0, 0, 0, 1, 7
+"Total", "-", 11546, 19, 73, 18, 8, 1, 831, 18, 71, 12585
